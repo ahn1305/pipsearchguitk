@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setup(
 
     name="pipsearchguitk",
-    version = "0.1.0",
+    version = "0.1.1",
     author='Ashwin.B',
     license='GPL v3',
     author_email = 'ahnashwin1305@gmail.com',
