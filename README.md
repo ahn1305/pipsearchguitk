@@ -11,7 +11,9 @@ Make sure your have tkinter installed in your system
 
 ## Usage
 ```python
-python -m pipsearchguitk.py
+python -m pipsearchguitk
+(or)
+python3 -m pipsearchguitk
 ```
 
 ## Check for the latest version
